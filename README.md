@@ -22,7 +22,7 @@ You can try the live demo of the Dice Game [here](https://example.com).
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yghugardare/dice-game.git
+   git clone https://github.com/yghugardare/DiceGame.git
    cd DiceGame
    ```
 
@@ -50,7 +50,7 @@ Open your browser and go to `http://localhost:5173` to see the application.
 
 ## Technologies Used
 
-- React.js
+- React.js + Vite
 - styled-components
 - useState hook
 - Media Queries for Responsive design
