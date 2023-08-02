@@ -44,7 +44,9 @@ Open your browser and go to `http://localhost:5173` to see the application.
 
 ## Screenshots
 
-![Dice Game Screenshot](/screenshots/dice-game-screenshot.png)
+![image](https://github.com/yghugardare/DiceGame/assets/117991996/20a12f51-07e8-4a6f-ace9-4f48bf92c164)
+![image](https://github.com/yghugardare/DiceGame/assets/117991996/c1f9ef0f-2c9f-4e2f-8585-e31d8c11fe65)
+![image](https://github.com/yghugardare/DiceGame/assets/117991996/60647ee3-d492-44f5-a540-41b0bff1f88b)
 
 ## Technologies Used
 
