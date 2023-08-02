@@ -1,9 +1,9 @@
 
-Dice Guessing Game
+# Dice Guessing Game
 
 The Dice Guessing Game is a fun web application built with React.js. Players select a number and click on the dice to roll it. If the guessed number matches the rolled dice number, they earn points equal to the dice. Incorrect guesses deduct two points.
 
-How to Play:
+## How to Play:
 
 Select a number to guess.
 
