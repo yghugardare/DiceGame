@@ -15,7 +15,7 @@ Incorrect guesses deduct two points from your score.
 
 ## Live Demo
 
-You can try the live demo of the Dice Game [here](https://example.com).
+You can try the live demo of the Dice Game [here](https://dice-game-eight-sigma.vercel.app/).
 
 ## Installation
 
