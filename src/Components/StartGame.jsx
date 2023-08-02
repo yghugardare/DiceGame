@@ -9,7 +9,7 @@ function StartGame({gameOn,setGameOn}) {
   return (
     <Container>
     <div className="image">
-        <img src="../../public/dices.png" alt="dices" />
+        <img src="/public/dices.png" alt="dices" />
     </div>
     <div className="text">
         <h1>DICE GAME</h1>
